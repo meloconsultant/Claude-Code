@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "legal-case-manager"
+version = "0.1.0"
+description = "Legal Case Manager Agent - Senior paralegal + litigator hybrid for case file management"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["legal", "case-management", "exhibits", "paralegal", "litigation"]
+
+[project.scripts]
+legal-case-manager = "legal_case_manager.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["legal_case_manager*"]
