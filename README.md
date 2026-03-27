@@ -30,3 +30,9 @@ claude
 ## Documentation
 
 Full documentation is available at <https://docs.anthropic.com/claude-code>.
+
+## Agents & Tools
+
+### Legal Case Manager
+
+[`legal-case-manager.md`](./legal-case-manager.md) — A senior paralegal + litigator hybrid agent that scans uploaded files, builds exhibits lists, tracks case status, flags next steps, and executes tasks. Useful for e-discovery, trial prep, and litigation organization (including California Government Claims Act matters).
