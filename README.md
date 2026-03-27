@@ -30,3 +30,9 @@ claude
 ## Documentation
 
 Full documentation is available at <https://docs.anthropic.com/claude-code>.
+
+## Legal Filings
+
+Case-related filings and legal documents:
+
+- [`filings/2026-03-30_Opposition_Motion_to_Quash.md`](filings/2026-03-30_Opposition_Motion_to_Quash.md) — Plaintiffs' Filing Packet for March 30, 2026 hearing on Defendant's Motion to Quash (Perez et al. v. SBMWD, Case No. CIVSB2600093)
